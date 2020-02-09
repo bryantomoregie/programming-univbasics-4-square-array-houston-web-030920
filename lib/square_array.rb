@@ -1,3 +1,14 @@
 def square_array(array)
-  # your code here
+counter = 0 
+new_array = []
+while counter < array.length
+# square each element in array 
+counter += 1
 end
+end
+
+
+# method called square_array 
+# take an array of numbers
+# squares each element in an array of numbers 
+# and returns a !!!new array!!! of these squared numbers 
