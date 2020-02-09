@@ -2,7 +2,7 @@ def square_array(array)
 counter = 0 
 new_array = []
 while counter < array.length do
-# square each element in array 
+new_array <<  
 counter += 1
 end
 end
